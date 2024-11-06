@@ -1,0 +1,12 @@
+var user = "vishwas";
+console.log(user);
+var user = 10;
+console.log(user);
+let age = 10;
+console.log(age);
+age = 20;
+console.log(age);
+const minAge = 18;
+console.log(minAge);
+console.log("minimum age is:"+minAge);
+minAge = 25;
